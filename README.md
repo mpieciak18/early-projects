@@ -1,4 +1,4 @@
-Welcome to my repository of personal projects.
+Welcome to my repository of old, early-stage personal projects.
 
 # blockchain
 
